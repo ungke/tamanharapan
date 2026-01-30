@@ -34,8 +34,7 @@ export default async function LocaleLayout({
   }
 
   // Providing all messages to the client
-  // side is the easiest way to get started
-  const messages = await getMessages();
+  const messages = await getMessages({locale});
 
   return (
     <html lang={locale}>
@@ -46,7 +45,7 @@ export default async function LocaleLayout({
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
       </head>
       <body className="font-sans antialiased">
-        <NextIntlClientProvider messages={messages}>
+        <NextIntlClientProvider messages={messages} locale={locale}>
           <Header />
           <main>{children}</main>
           <Footer />
