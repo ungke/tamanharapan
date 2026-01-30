@@ -1,0 +1,114 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "sermons": "Khotbah",
+    "events": "Acara",
+    "ministries": "Pelayanan",
+    "sabbathSchool": "Sekolah Sabat",
+    "contact": "Kontak",
+    "give": "Persembahan"
+  },
+  "hero": {
+    "title": "SDA Taman Harapan Church",
+    "tagline": "Menanti Kedatangan-Nya, Melayani Sesama",
+    "ctaPrimary": "Rencanakan Kunjungan",
+    "ctaSecondary": "Tonton Khotbah Terbaru"
+  },
+  "about": {
+    "title": "Tentang Kami",
+    "welcome": "Selamat Datang",
+    "welcomeText": "Selamat datang di SDA Taman Harapan Church. Kami adalah komunitas yang berdedikasi untuk menyembah Tuhan dan melayani sesama.",
+    "mission": "Misi Kami",
+    "missionText": "Menjadikan murid Kristus yang setia, mengajarkan kebenaran Alkitab, dan menyiapkan umat untuk kedatangan Yesus yang kedua kali.",
+    "vision": "Visi Kami",
+    "visionText": "Menjadi gereja yang hidup, bertumbuh, dan berdampak positif bagi komunitas sekitar melalui kasih Kristus.",
+    "beliefs": "Keyakinan Kami",
+    "beliefsText": "Kami adalah bagian dari Gereja Masehi Advent Hari Ketujuh yang percaya pada 28 Keyakinan Fundamental Advent."
+  },
+  "serviceTimes": {
+    "title": "Waktu Ibadah",
+    "sabbathSchool": "Sekolah Sabat",
+    "divineService": "Ibadah Sabat",
+    "prayerMeeting": "Doa Rabu",
+    "saturday": "Sabtu",
+    "wednesday": "Rabu",
+    "location": "Lokasi",
+    "getDirections": "Dapatkan Petunjuk Arah"
+  },
+  "sermons": {
+    "title": "Khotbah Terbaru",
+    "viewAll": "Lihat Semua Khotbah",
+    "speaker": "Pembicara",
+    "date": "Tanggal",
+    "series": "Seri",
+    "watchSermon": "Tonton Khotbah",
+    "filter": "Filter",
+    "search": "Cari khotbah..."
+  },
+  "events": {
+    "title": "Acara Mendatang",
+    "viewAll": "Lihat Semua Acara",
+    "register": "Daftar",
+    "learnMore": "Pelajari Lebih Lanjut",
+    "noEvents": "Tidak ada acara yang akan datang saat ini."
+  },
+  "ministries": {
+    "title": "Pelayanan Kami",
+    "children": "Pelayanan Anak",
+    "youth": "Pemuda Advent (AY)",
+    "youngAdults": "Dewasa Muda",
+    "women": "Pelayanan Wanita",
+    "men": "Pelayanan Pria",
+    "music": "Musik & Pujian",
+    "community": "Pelayanan Masyarakat (ADRA)",
+    "health": "Kesehatan & Temperance"
+  },
+  "sabbathSchool": {
+    "title": "Sekolah Sabat",
+    "quarterly": "Pedoman Triwulan",
+    "classes": "Kelas-kelas",
+    "resources": "Sumber Daya",
+    "onlineStudy": "Kelompok Studi Online"
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "name": "Nama",
+    "email": "Email",
+    "phone": "Telepon",
+    "subject": "Subjek",
+    "message": "Pesan",
+    "prayerRequest": "Ini adalah permintaan doa",
+    "send": "Kirim Pesan",
+    "officeHours": "Jam Kantor",
+    "followUs": "Ikuti Kami"
+  },
+  "giving": {
+    "title": "Persembahan Online",
+    "description": "Terima kasih atas kesetiaan Anda dalam mendukung pelayanan kami.",
+    "tithe": "Persepuluhan",
+    "offering": "Persembahan",
+    "specialProjects": "Proyek Khusus",
+    "mission": "Dukungan Misi",
+    "recurring": "Berikan secara berkala",
+    "oneTime": "Pemberian Satu Kali"
+  },
+  "footer": {
+    "about": "Tentang",
+    "quickLinks": "Tautan Cepat",
+    "serviceTimesTitle": "Waktu Ibadah",
+    "contactInfo": "Informasi Kontak",
+    "newsletter": "Buletin",
+    "newsletterText": "Daftar untuk menerima pembaruan dan pengumuman kami.",
+    "emailPlaceholder": "Alamat email Anda",
+    "subscribe": "Berlangganan",
+    "copyright": "Hak Cipta © 2026 SDA Taman Harapan Church. Semua hak dilindungi.",
+    "denomination": "Bagian dari Gereja Masehi Advent Hari Ketujuh"
+  },
+  "common": {
+    "readMore": "Baca Selengkapnya",
+    "loading": "Memuat...",
+    "error": "Terjadi kesalahan",
+    "close": "Tutup"
+  }
+}

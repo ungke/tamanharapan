@@ -1,0 +1,114 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "sermons": "Sermons",
+    "events": "Events",
+    "ministries": "Ministries",
+    "sabbathSchool": "Sabbath School",
+    "contact": "Contact",
+    "give": "Give"
+  },
+  "hero": {
+    "title": "SDA Taman Harapan Church",
+    "tagline": "Awaiting His Coming, Serving Others",
+    "ctaPrimary": "Plan Your Visit",
+    "ctaSecondary": "Watch Latest Sermon"
+  },
+  "about": {
+    "title": "About Us",
+    "welcome": "Welcome",
+    "welcomeText": "Welcome to SDA Taman Harapan Church. We are a community dedicated to worshiping God and serving others.",
+    "mission": "Our Mission",
+    "missionText": "To make faithful disciples of Christ, teach Biblical truth, and prepare people for the second coming of Jesus.",
+    "vision": "Our Vision",
+    "visionText": "To be a living, growing church that positively impacts the community through Christ's love.",
+    "beliefs": "Our Beliefs",
+    "beliefsText": "We are part of the Seventh-day Adventist Church believing in the 28 Fundamental Beliefs of Adventism."
+  },
+  "serviceTimes": {
+    "title": "Service Times",
+    "sabbathSchool": "Sabbath School",
+    "divineService": "Divine Service",
+    "prayerMeeting": "Prayer Meeting",
+    "saturday": "Saturday",
+    "wednesday": "Wednesday",
+    "location": "Location",
+    "getDirections": "Get Directions"
+  },
+  "sermons": {
+    "title": "Latest Sermons",
+    "viewAll": "View All Sermons",
+    "speaker": "Speaker",
+    "date": "Date",
+    "series": "Series",
+    "watchSermon": "Watch Sermon",
+    "filter": "Filter",
+    "search": "Search sermons..."
+  },
+  "events": {
+    "title": "Upcoming Events",
+    "viewAll": "View All Events",
+    "register": "Register",
+    "learnMore": "Learn More",
+    "noEvents": "No upcoming events at this time."
+  },
+  "ministries": {
+    "title": "Our Ministries",
+    "children": "Children's Ministry",
+    "youth": "Adventist Youth (AY)",
+    "youngAdults": "Young Adults",
+    "women": "Women's Ministry",
+    "men": "Men's Ministry",
+    "music": "Music & Worship",
+    "community": "Community Services (ADRA)",
+    "health": "Health & Temperance"
+  },
+  "sabbathSchool": {
+    "title": "Sabbath School",
+    "quarterly": "Quarterly Lesson",
+    "classes": "Classes",
+    "resources": "Resources",
+    "onlineStudy": "Online Study Groups"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "subject": "Subject",
+    "message": "Message",
+    "prayerRequest": "This is a prayer request",
+    "send": "Send Message",
+    "officeHours": "Office Hours",
+    "followUs": "Follow Us"
+  },
+  "giving": {
+    "title": "Online Giving",
+    "description": "Thank you for your faithfulness in supporting our ministry.",
+    "tithe": "Tithe",
+    "offering": "Offering",
+    "specialProjects": "Special Projects",
+    "mission": "Mission Support",
+    "recurring": "Give Regularly",
+    "oneTime": "One-Time Gift"
+  },
+  "footer": {
+    "about": "About",
+    "quickLinks": "Quick Links",
+    "serviceTimesTitle": "Service Times",
+    "contactInfo": "Contact Info",
+    "newsletter": "Newsletter",
+    "newsletterText": "Subscribe to receive our updates and announcements.",
+    "emailPlaceholder": "Your email address",
+    "subscribe": "Subscribe",
+    "copyright": "Copyright © 2026 SDA Taman Harapan Church. All rights reserved.",
+    "denomination": "Part of the Seventh-day Adventist Church"
+  },
+  "common": {
+    "readMore": "Read More",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "close": "Close"
+  }
+}
